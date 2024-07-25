@@ -66,7 +66,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## How to install
-1. php arisan migrate
+1. php artisan migrate
 2. php artisan db:seed --class=UsersTableSeeder
 3. php artisan db:seed --class=JabatanSeeder
 4. php artisan db:seed --class=DivisiSeeder
